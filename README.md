@@ -54,7 +54,7 @@ This project aligns Quantum AI with HCAI principles by transforming "black box" 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/guilhermemalves03/Active-Learning-Strategies-in-QNNs.git
     cd your-repo-name
     ```
 
