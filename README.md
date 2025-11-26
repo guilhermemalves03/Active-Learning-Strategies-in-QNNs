@@ -68,7 +68,7 @@ This project aligns Quantum AI with HCAI principles by transforming "black box" 
     ```bash
     python main_simulation.py
     ```
-    *Warning: The full simulation suite (11 strategies $\times$ 6 seeds) is computationally intensive and may take several hours depending on your CPU.*
+    *Warning: The full simulation suite (11 strategies times 6 seeds) is computationally intensive and may take several hours depending on your CPU.*
 
 ---
 
